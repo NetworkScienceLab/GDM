@@ -1,0 +1,38 @@
+name: gdm
+channels:
+  - pytorch
+  - conda-forge
+  - ostrokach-forge
+  - defaults
+dependencies:
+  - graph-tool=2.28.dev0=py37h0dcec27_0
+  - matplotlib
+  - numpy=1.16.2=py37h7e9f1db_0
+  - pandas=0.24.2=py37he6710b0_0
+  - pathlib2=2.3.3=py37_0
+  - progressbar2=3.37.1=py37_0
+  - python=3.7.3=h0371630_0
+  - pytorch=1.0.1=py3.7_cuda9.0.176_cudnn7.4.2_2
+  - scipy=1.2.1=py37h7c811a0_0
+  - torchvision=0.2.2=py_3
+  - tqdm=4.31.1=py37_1
+  - networkx==2.2
+  # - pytorch
+  # - torchvision
+  # - cudatoolkit=10.1
+  - pip:
+    - dill
+    - glob2==0.6
+    - humanize==2.4.0
+    - multiprocess==0.70.9
+    - networkx==2.2
+    - parse==1.12.0
+    - pathos==0.2.5
+    - seaborn
+    - torch-cluster==1.2.4
+    - torch-geometric==1.1.2
+    - torch-scatter==1.1.2
+    - torch-sparse==0.2.4
+    - torch-spline-conv==1.0.6
+#prefix: /home/gmangioni/anaconda3/envs/pytorch
+
