@@ -108,6 +108,8 @@ We provide the synthetic data used for training and for testing.
 Regarding the real-world test networks, we provide a sub-set due to the various licensing of the original data.
 While most of these networks are publicly available[^1], feel free to email us to get the full dataset.
 
+For more, see the [ReadMe](dataset/README.md) in the dataset folder.
+
 ## Uncompress the pre-trained models
 We provide the pre-trained models in the 
 > out.tar.gz
