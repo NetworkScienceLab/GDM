@@ -392,7 +392,3 @@ Available at [Konect](http://konect.cc/networks/wikipedia_link_li/).
 > Christiane Fellbaum, editor. WordNet: an Electronic Lexical Database. MIT Press, 1998. 
 
 Available at [Konect](http://konect.cc/networks/wordnet-words/).
-
-
-
-[Creative Commons Attribution-ShareAlike License](https://networkrepository.com/policy.php).
