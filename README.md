@@ -108,8 +108,6 @@ We provide the synthetic data used for training and for testing.
 Regarding the real-world test networks, we provide a sub-set due to the various licensing of the original data.
 While most of these networks are publicly available[^1], feel free to email us to get the full dataset.
 
-For more, see the [ReadMe](dataset/README.md) in the dataset folder.
-
 ## Uncompress the pre-trained models
 We provide the pre-trained models in the 
 > out.tar.gz
@@ -207,7 +205,7 @@ The dismantling runs will be stored in "out/df/synth_train_NEW/t_0.18/T_0.1/GAT_
 ### Dataset generation
 We provide the networks we use in our experiments in the repository under the dataset/ folder[^1].
 
-However, if you wish to test with your own networks, you can convert them from the edgelist (.el) to the GraphML (.graphml) fileformat via the command:
+However, if you wish to test with your own networks, you can convert them from the edgelist (.el) to the GraphML (.graphml) file-format via the command:
 
 ```bash
 python -u network_dismantling/common/any2graphml.py -i <INPUT_FOLDER> -o <OUTPUT_FOLDER> -e <INPUT_FORMAT>
@@ -225,7 +223,7 @@ python -u network_dismantling/machine_learning/pytorch/dataset_generator.py -d <
 python -u network_dismantling/machine_learning/pytorch/dataset_generator.py -d dataset/MY_FOLDER/dataset/ -uf -j 4 -F "*"
 ```
 
-[^1]: The networks come from the [Konect](http://konect.cc/) and [NetworkRepository](https://networkrepository.com) repositories. We refer the reader to the paper for the proper references and citations of each network.
+[^1]: For more information about the data sources, citations, licenses, etc. see the [Read-me](dataset/README.md) in the dataset folder.
 
 ### Plotting
 
