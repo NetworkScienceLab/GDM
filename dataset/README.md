@@ -1,10 +1,3 @@
----
-title: "Dataset ReadMe"
-output: pdf_document
-bibliography: scibib.bibtex
----
-
-
 # References and licenses
 In this folder we provide (most) of the networks used in our experiments.
 All networks come in GraphML format with pre-computed node features and, in the case of the train networks, target. 
