@@ -1,7 +1,42 @@
 # GDM: Graph Dismantling with Machine learning
 This repository contains the scripts and data from the "Machine learning dismantling and early-warning signals of disintegration in complex systems" paper by M. Grassia, M. De Domenico and G. Mangioni.
 
-TODO: ADD PAPER LINK AND BIBTEX CITATION
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5105912.svg)](https://doi.org/10.5281/zenodo.5105912)
+
+
+## How to cite the paper
+> Grassia, Marco & De Domenico, Manlio & Mangioni, Giuseppe. (2021). Machine learning dismantling and early-warning signals of disintegration in complex systems. 
+
+```
+@misc{grassia2021machine,
+      title={Machine learning dismantling and early-warning signals of disintegration in complex systems}, 
+      author={Marco Grassia and Manlio De Domenico and Giuseppe Mangioni},
+      year={2021},
+      eprint={2101.02453},
+      archivePrefix={arXiv},
+      primaryClass={physics.soc-ph}
+}
+```
+
+## How to cite this repository
+
+> Marco Grassia, Manlio De Domenico, & Giuseppe Mangioni. (2021, July 19). Machine learning dismantling and early-warning signals of disintegration in complex systems (Version 1.0). Nature Communications. Zenodo. http://doi.org/10.5281/zenodo.5105912
+
+```
+@software{marco_grassia_2021_5105912,
+  author       = {Marco Grassia and
+                  Manlio De Domenico and
+                  Giuseppe Mangioni},
+  title        = {{Machine learning dismantling and early-warning 
+                   signals of disintegration in complex systems}},
+  month        = jul,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.5105912},
+  url          = {https://doi.org/10.5281/zenodo.5105912}
+}
+```
 
 ## Setup
 > Expected time for this step: 30m
