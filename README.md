@@ -10,7 +10,7 @@ This repository contains the scripts and data from the "Machine learning dismant
 ```
 @misc{grassia2021machine,
       title={Machine learning dismantling and early-warning signals of disintegration in complex systems}, 
-      author={Marco Grassia and Manlio De Domenico and Giuseppe Mangioni},
+      author={Grassia, Marco and De Domenico, Manlio and Mangioni, Giuseppe},
       year={2021},
       eprint={2101.02453},
       archivePrefix={arXiv},
@@ -24,9 +24,9 @@ This repository contains the scripts and data from the "Machine learning dismant
 
 ```
 @software{marco_grassia_2021_5105912,
-  author       = {Marco Grassia and
-                  Manlio De Domenico and
-                  Giuseppe Mangioni},
+  author       = {Grassia, Marco and
+                  De Domenico, Manlio and
+                  Mangioni, Giuseppe},
   title        = {{Machine learning dismantling and early-warning 
                    signals of disintegration in complex systems}},
   month        = jul,
