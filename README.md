@@ -9,7 +9,7 @@ This repository contains the scripts and data from the "Machine learning dismant
 
 BibTex:
 ```bib
-@misc{grassia2021machine,
+@article{grassia2021machine,
   author   = {Grassia, Marco
 and De Domenico, Manlio
 and Mangioni, Giuseppe},
