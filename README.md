@@ -1,13 +1,14 @@
 # GDM: Graph Dismantling with Machine learning
-This repository contains the scripts and data from the "Machine learning dismantling and early-warning signals of disintegration in complex systems" paper by M. Grassia, M. De Domenico and G. Mangioni.
+This repository contains the scripts and data from the "Machine learning dismantling and early-warning signals of disintegration in complex systems" paper by M. Grassia, M. De Domenico and G. Mangioni, available at [Nature Communications](https://rdcu.be/cwqp3).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5105912.svg)](https://doi.org/10.5281/zenodo.5105912)
 
 
 ## How to cite the paper
-> Grassia, Marco & De Domenico, Manlio & Mangioni, Giuseppe. (2021). Machine learning dismantling and early-warning signals of disintegration in complex systems. 
+> Grassia, M., De Domenico, M. & Mangioni, G. Machine learning dismantling and early-warning signals of disintegration in complex systems. Nat Commun 12, 5190 (2021). https://doi.org/10.1038/s41467-021-25485-8
 
-```
+BibTex:
+```bib
 @misc{grassia2021machine,
   author   = {Grassia, Marco
 and De Domenico, Manlio
@@ -25,6 +26,27 @@ and Mangioni, Giuseppe},
   doi      = {10.1038/s41467-021-25485-8},
   url      = {https://doi.org/10.1038/s41467-021-25485-8}
 }
+```
+
+RIS:
+```ris
+TY  - JOUR
+AU  - Grassia, Marco
+AU  - De Domenico, Manlio
+AU  - Mangioni, Giuseppe
+PY  - 2021
+DA  - 2021/08/31
+TI  - Machine learning dismantling and early-warning signals of disintegration in complex systems
+JO  - Nature Communications
+SP  - 5190
+VL  - 12
+IS  - 1
+AB  - From physics to engineering, biology and social science, natural and artificial systems are characterized by interconnected topologies whose features – e.g., heterogeneous connectivity, mesoscale organization, hierarchy – affect their robustness to external perturbations, such as targeted attacks to their units. Identifying the minimal set of units to attack to disintegrate a complex network, i.e. network dismantling, is a computationally challenging (NP-hard) problem which is usually attacked with heuristics. Here, we show that a machine trained to dismantle relatively small systems is able to identify higher-order topological patterns, allowing to disintegrate large-scale social, infrastructural and technological networks more efficiently than human-based heuristics. Remarkably, the machine assesses the probability that next attacks will disintegrate the system, providing a quantitative method to quantify systemic risk and detect early-warning signals of system’s collapse. This demonstrates that machine-assisted analysis can be effectively used for policy and decision-making to better quantify the fragility of complex systems and their response to shocks.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-021-25485-8
+DO  - 10.1038/s41467-021-25485-8
+ID  - Grassia2021
+ER  - 
 ```
 
 ## How to cite this repository
