@@ -9,12 +9,21 @@ This repository contains the scripts and data from the "Machine learning dismant
 
 ```
 @misc{grassia2021machine,
-      title={Machine learning dismantling and early-warning signals of disintegration in complex systems}, 
-      author={Grassia, Marco and De Domenico, Manlio and Mangioni, Giuseppe},
-      year={2021},
-      eprint={2101.02453},
-      archivePrefix={arXiv},
-      primaryClass={physics.soc-ph}
+  author   = {Grassia, Marco
+and De Domenico, Manlio
+and Mangioni, Giuseppe},
+  title    = {Machine learning dismantling and early-warning signals of disintegration in complex systems},
+  journal  = {Nature Communications},
+  year     = {2021},
+  month    = {Aug},
+  day      = {31},
+  volume   = {12},
+  number   = {1},
+  pages    = {5190},
+  abstract = {From physics to engineering, biology and social science, natural and artificial systems are characterized by interconnected topologies whose features -- e.g., heterogeneous connectivity, mesoscale organization, hierarchy -- affect their robustness to external perturbations, such as targeted attacks to their units. Identifying the minimal set of units to attack to disintegrate a complex network, i.e. network dismantling, is a computationally challenging (NP-hard) problem which is usually attacked with heuristics. Here, we show that a machine trained to dismantle relatively small systems is able to identify higher-order topological patterns, allowing to disintegrate large-scale social, infrastructural and technological networks more efficiently than human-based heuristics. Remarkably, the machine assesses the probability that next attacks will disintegrate the system, providing a quantitative method to quantify systemic risk and detect early-warning signals of system's collapse. This demonstrates that machine-assisted analysis can be effectively used for policy and decision-making to better quantify the fragility of complex systems and their response to shocks.},
+  issn     = {2041-1723},
+  doi      = {10.1038/s41467-021-25485-8},
+  url      = {https://doi.org/10.1038/s41467-021-25485-8}
 }
 ```
 
